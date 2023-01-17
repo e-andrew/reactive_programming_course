@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="service.impl.PriceServiceTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-12-30T15:04:11" hostname="EPICANDREW" time="0.361">
+  <properties/>
+  <testcase name="verifyBuildingAveragePriceEvents()" classname="service.impl.PriceServiceTests" time="0.348"/>
+  <testcase name="verifyBuildingCurrentPriceEvents()" classname="service.impl.PriceServiceTests" time="0.01"/>
+  <system-out><![CDATA[Checking case when flatMap is out of switch
+17:04:11.533 [Test worker] DEBUG reactor.util.Loggers - Using Slf4j logging framework
+Interval: 1
+Price: 100.0
+AVG: 100.0
+Price: 101.0
+AVG: 101.0
+Price: 102.0
+AVG: 102.0
+Price: 103.0
+AVG: 103.0
+Price: 104.0
+Interval: 2
+AVG: 104.0
+Price: 105.0
+Price: 106.0
+AVG: 103.0
+Price: 107.0
+Price: 108.0
+AVG: 107.5
+Price: 109.0
+Interval: 3
+Price: 110.0
+AVG: 109.5
+Price: 111.0
+Price: 112.0
+AVG: 106.0
+Price: 113.0
+Price: 114.0
+Interval: 4
+Price: 115.0
+AVG: 114.0
+Price: 116.0
+Price: 117.0
+Price: 118.0
+Price: 119.0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

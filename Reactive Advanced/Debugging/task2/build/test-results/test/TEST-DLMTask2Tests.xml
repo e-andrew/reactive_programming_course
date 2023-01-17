@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DLMTask2Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-30T22:45:12" hostname="EPICANDREW" time="0.971">
+  <properties/>
+  <testcase name="testSolution()" classname="DLMTask2Tests" time="0.971"/>
+  <system-out><![CDATA[00:45:12.969 [Test worker] DEBUG reactor.util.Loggers - Using Slf4j logging framework
+00:45:12.979 [Test worker] DEBUG reactor.core.publisher.Hooks - Hooking onEachOperator: DLMTask2Tests$$Lambda$334/0x0000000800c6f040@5852c06f
+00:45:13.760 [Test worker] DEBUG reactor.core.publisher.Hooks - Reset to factory defaults : onEachOperator
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CommonPublishersTask10Tests" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-12-19T22:35:57" hostname="EPICANDREW" time="0.499">
+  <properties/>
+  <testcase name="testSolution()" classname="CommonPublishersTask10Tests" time="0.443"/>
+  <testcase name="testSolution1()" classname="CommonPublishersTask10Tests" time="0.052"/>
+  <system-out><![CDATA[00:35:57.354 [Test worker] DEBUG reactor.util.Loggers - Using Slf4j logging framework
+00:35:57.598 [Test worker] DEBUG reactor.core.publisher.Operators - onNextDropped: 6765
+00:35:57.679 [parallel-1] DEBUG reactor.core.publisher.Operators - onNextDropped: 6765
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

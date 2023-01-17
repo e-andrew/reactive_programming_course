@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MultipleSourcesTask6Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-22T17:36:57" hostname="EPICANDREW" time="0.186">
+  <properties/>
+  <testcase name="testSolution()" classname="MultipleSourcesTask6Tests" time="0.186"/>
+  <system-out><![CDATA[19:36:57.894 [Test worker] DEBUG reactor.util.Loggers - Using Slf4j logging framework
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

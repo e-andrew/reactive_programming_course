@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.netty.incubator:netty-incubator-codec-native-quic:linux-x86_64:0.0.25.Final">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty.incubator/netty-incubator-codec-native-quic/0.0.25.Final/a16b8a9173f0b2e52776e408ee4220daca89a7fa/netty-incubator-codec-native-quic-0.0.25.Final-linux-x86_64.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty.incubator/netty-incubator-codec-native-quic/0.0.25.Final/c41b05f3d41179d74c9279a6bf3b26acbedcafa7/netty-incubator-codec-native-quic-0.0.25.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

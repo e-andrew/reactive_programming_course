@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CPTask3Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-27T18:48:33" hostname="EPICANDREW" time="84.554">
+  <properties/>
+  <testcase name="findVideoTest()" classname="CPTask3Tests" time="84.554"/>
+  <system-out><![CDATA[20:48:33.462 [Test worker] DEBUG reactor.util.Loggers - Using Slf4j logging framework
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

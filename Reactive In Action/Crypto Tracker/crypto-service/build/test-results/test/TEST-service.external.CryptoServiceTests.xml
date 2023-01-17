@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="service.external.CryptoServiceTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-12-30T15:01:12" hostname="EPICANDREW" time="1.523">
+  <properties/>
+  <testcase name="verifyThatSupportReplayMode()" classname="service.external.CryptoServiceTests" time="0.716"/>
+  <testcase name="verifyThatSupportMultiSubscribers()" classname="service.external.CryptoServiceTests" time="0.342"/>
+  <testcase name="verifyThatSupportIsolationAndResilience()" classname="service.external.CryptoServiceTests" time="0.45"/>
+  <system-out><![CDATA[17:01:13.217 [Test worker] DEBUG reactor.util.Loggers - Using Slf4j logging framework
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

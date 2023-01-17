@@ -1,0 +1,3 @@
+W14:27:30.769 [Test worker] DEBUG reactor.util.Loggers - Using Slf4j logging framework
+è14:27:30.779 [Test worker] DEBUG reactor.core.publisher.Hooks - Hooking onEachOperator: HnSTask4Tests$$Lambda$334/0x0000000800c6d040@35b74c5c
+l14:27:31.050 [Test worker] DEBUG reactor.core.publisher.Hooks - Reset to factory defaults : onEachOperator

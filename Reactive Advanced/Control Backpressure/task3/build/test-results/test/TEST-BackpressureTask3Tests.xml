@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BackpressureTask3Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-25T17:19:14" hostname="EPICANDREW" time="0.222">
+  <properties/>
+  <testcase name="testSolution()" classname="BackpressureTask3Tests" time="0.222"/>
+  <system-out><![CDATA[19:19:14.381 [Test worker] DEBUG reactor.util.Loggers - Using Slf4j logging framework
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

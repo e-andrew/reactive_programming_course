@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MultithreadingOperatorsTask1Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-24T20:47:39" hostname="EPICANDREW" time="0.541">
+  <properties/>
+  <testcase name="mergeSeveralSourcesTest()" classname="MultithreadingOperatorsTask1Tests" time="0.541"/>
+  <system-out><![CDATA[22:47:39.934 [Test worker] DEBUG reactor.util.Loggers - Using Slf4j logging framework
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

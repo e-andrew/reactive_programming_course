@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Reactive Advanced/Context/task1" />
+            <option value="$PROJECT_DIR$/Reactive Advanced/Context/task2" />
+            <option value="$PROJECT_DIR$/Reactive Advanced/Context/task3" />
+            <option value="$PROJECT_DIR$/Reactive Advanced/Control Backpressure/task1" />
+            <option value="$PROJECT_DIR$/Reactive Advanced/Control Backpressure/task2" />
+            <option value="$PROJECT_DIR$/Reactive Advanced/Control Backpressure/task3" />
+            <option value="$PROJECT_DIR$/Reactive Advanced/Control Backpressure/task4" />
+            <option value="$PROJECT_DIR$/Reactive Advanced/Control Backpressure/task5" />
+            <option value="$PROJECT_DIR$/Reactive Advanced/Debugging/task1" />
+            <option value="$PROJECT_DIR$/Reactive Advanced/Debugging/task2" />
+            <option value="$PROJECT_DIR$/Reactive Advanced/Debugging/task3" />
+            <option value="$PROJECT_DIR$/Reactive Advanced/Hot and Sharable/task1" />
+            <option value="$PROJECT_DIR$/Reactive Advanced/Hot and Sharable/task2" />
+            <option value="$PROJECT_DIR$/Reactive Advanced/Hot and Sharable/task3" />
+            <option value="$PROJECT_DIR$/Reactive Advanced/Hot and Sharable/task4" />
+            <option value="$PROJECT_DIR$/Reactive Advanced/Multiple Sources/task1" />
+            <option value="$PROJECT_DIR$/Reactive Advanced/Multiple Sources/task2" />
+            <option value="$PROJECT_DIR$/Reactive Advanced/Multiple Sources/task3" />
+            <option value="$PROJECT_DIR$/Reactive Advanced/Multiple Sources/task4" />
+            <option value="$PROJECT_DIR$/Reactive Advanced/Multiple Sources/task5" />
+            <option value="$PROJECT_DIR$/Reactive Advanced/Multiple Sources/task6" />
+            <option value="$PROJECT_DIR$/Reactive Advanced/Multiple Sources/task7" />
+            <option value="$PROJECT_DIR$/Reactive Advanced/Multiple Sources/task8" />
+            <option value="$PROJECT_DIR$/Reactive Advanced/Multiple Sources/task9" />
+            <option value="$PROJECT_DIR$/Reactive Advanced/Multithreading Operators/task1" />
+            <option value="$PROJECT_DIR$/Reactive Advanced/Multithreading Operators/task2" />
+            <option value="$PROJECT_DIR$/Reactive Advanced/Multithreading Operators/task3" />
+            <option value="$PROJECT_DIR$/Reactive Advanced/Multithreading Operators/task4" />
+            <option value="$PROJECT_DIR$/Reactive Advanced/Multithreading Operators/task5" />
+            <option value="$PROJECT_DIR$/Reactive Advanced/Resilience/task1" />
+            <option value="$PROJECT_DIR$/Reactive Advanced/Resilience/task2" />
+            <option value="$PROJECT_DIR$/Reactive Advanced/Resilience/task3" />
+            <option value="$PROJECT_DIR$/Reactive Advanced/Resilience/task4" />
+            <option value="$PROJECT_DIR$/Reactive Advanced/Resilience/task5" />
+            <option value="$PROJECT_DIR$/Reactive Advanced/Resilience/task6" />
+            <option value="$PROJECT_DIR$/Reactive Advanced/Resilience/task7" />
+            <option value="$PROJECT_DIR$/Reactive Advanced/Resilience/task8" />
+            <option value="$PROJECT_DIR$/Reactive Advanced/Resilience/task9" />
+            <option value="$PROJECT_DIR$/Reactive Essentials/Async Publishers/CreateSequence" />
+            <option value="$PROJECT_DIR$/Reactive Essentials/Async Publishers/CreateTempFile" />
+            <option value="$PROJECT_DIR$/Reactive Essentials/Async Publishers/FibonacciSequence" />
+            <option value="$PROJECT_DIR$/Reactive Essentials/Async Publishers/GenerateUUID" />
+            <option value="$PROJECT_DIR$/Reactive Essentials/Async Publishers/PropertiesSource" />
+            <option value="$PROJECT_DIR$/Reactive Essentials/Async Publishers/ValidateDuration" />
+            <option value="$PROJECT_DIR$/Reactive Essentials/Common Operators/task1" />
+            <option value="$PROJECT_DIR$/Reactive Essentials/Common Operators/task10" />
+            <option value="$PROJECT_DIR$/Reactive Essentials/Common Operators/task11" />
+            <option value="$PROJECT_DIR$/Reactive Essentials/Common Operators/task2" />
+            <option value="$PROJECT_DIR$/Reactive Essentials/Common Operators/task3" />
+            <option value="$PROJECT_DIR$/Reactive Essentials/Common Operators/task4" />
+            <option value="$PROJECT_DIR$/Reactive Essentials/Common Operators/task5" />
+            <option value="$PROJECT_DIR$/Reactive Essentials/Common Operators/task6" />
+            <option value="$PROJECT_DIR$/Reactive Essentials/Common Operators/task7" />
+            <option value="$PROJECT_DIR$/Reactive Essentials/Common Operators/task8" />
+            <option value="$PROJECT_DIR$/Reactive Essentials/Common Operators/task9" />
+            <option value="$PROJECT_DIR$/Reactive Essentials/Testing/task1" />
+            <option value="$PROJECT_DIR$/Reactive Essentials/Testing/task2" />
+            <option value="$PROJECT_DIR$/Reactive Essentials/Testing/task3" />
+            <option value="$PROJECT_DIR$/Reactive In Action/Common Problems/task1" />
+            <option value="$PROJECT_DIR$/Reactive In Action/Common Problems/task2" />
+            <option value="$PROJECT_DIR$/Reactive In Action/Common Problems/task3" />
+            <option value="$PROJECT_DIR$/Reactive In Action/Common Problems/task4" />
+            <option value="$PROJECT_DIR$/Reactive In Action/Common Problems/task5" />
+            <option value="$PROJECT_DIR$/Reactive In Action/Crypto Tracker/application" />
+            <option value="$PROJECT_DIR$/Reactive In Action/Crypto Tracker/common" />
+            <option value="$PROJECT_DIR$/Reactive In Action/Crypto Tracker/crypto-service" />
+            <option value="$PROJECT_DIR$/Reactive In Action/Crypto Tracker/crypto-service-idl" />
+            <option value="$PROJECT_DIR$/Reactive In Action/Crypto Tracker/price-service" />
+            <option value="$PROJECT_DIR$/Reactive In Action/Crypto Tracker/price-service-idl" />
+            <option value="$PROJECT_DIR$/Reactive In Action/Crypto Tracker/trade-service" />
+            <option value="$PROJECT_DIR$/Reactive In Action/Crypto Tracker/trade-service-idl" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

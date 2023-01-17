@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CommonPublishersTask5Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-20T16:59:02" hostname="EPICANDREW" time="0.143">
+  <properties/>
+  <testcase name="testSolution()" classname="CommonPublishersTask5Tests" time="0.143"/>
+  <system-out><![CDATA[18:59:02.523 [Test worker] DEBUG reactor.util.Loggers - Using Slf4j logging framework
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

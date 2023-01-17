@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BackpressureTask4Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-25T17:19:22" hostname="EPICANDREW" time="0.216">
+  <properties/>
+  <testcase name="testSolution()" classname="BackpressureTask4Tests" time="0.216"/>
+  <system-out><![CDATA[19:19:22.981 [Test worker] DEBUG reactor.util.Loggers - Using Slf4j logging framework
+19:19:23.112 [Test worker] DEBUG reactor.core.publisher.Operators - onNextDropped: TestStatistic{query='test0'}
+19:19:23.112 [Test worker] DEBUG reactor.core.publisher.Operators - onNextDropped: TestStatistic{query='test4'}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

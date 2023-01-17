@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestingTask3Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-31T14:48:47" hostname="EPICANDREW" time="0.266">
+  <properties/>
+  <testcase name="testSolution()" classname="TestingTask3Tests" time="0.266"/>
+  <system-out><![CDATA[16:48:48.025 [Test worker] DEBUG reactor.util.Loggers - Using Slf4j logging framework
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

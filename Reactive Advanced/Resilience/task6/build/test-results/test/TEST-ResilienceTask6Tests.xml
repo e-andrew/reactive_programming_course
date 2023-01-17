@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ResilienceTask6Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-27T10:49:24" hostname="EPICANDREW" time="0.564">
+  <properties/>
+  <testcase name="testSolution()" classname="ResilienceTask6Tests" time="0.564"/>
+  <system-out><![CDATA[12:49:24.792 [Test worker] DEBUG reactor.util.Loggers - Using Slf4j logging framework
+]]></system-out>
+  <system-err><![CDATA[Thrown an error [java.lang.ArithmeticException: / by zero] on the following element [0]
+]]></system-err>
+</testsuite>

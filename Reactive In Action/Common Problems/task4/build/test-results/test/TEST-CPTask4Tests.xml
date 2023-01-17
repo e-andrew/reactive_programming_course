@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CPTask4Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-27T18:47:50" hostname="EPICANDREW" time="1.132">
+  <properties/>
+  <testcase name="uploadTest()" classname="CPTask4Tests" time="1.132"/>
+  <system-out><![CDATA[20:47:51.066 [Test worker] DEBUG reactor.util.Loggers - Using Slf4j logging framework
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

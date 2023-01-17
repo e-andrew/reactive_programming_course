@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ResilienceTask8Tests" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-12-27T11:14:18" hostname="EPICANDREW" time="0.82">
+  <properties/>
+  <testcase name="testSolution()" classname="ResilienceTask8Tests" time="0.58"/>
+  <testcase name="testSolution1()" classname="ResilienceTask8Tests" time="0.011"/>
+  <testcase name="testSolution2()" classname="ResilienceTask8Tests" time="0.054"/>
+  <testcase name="testSolution3()" classname="ResilienceTask8Tests" time="0.163"/>
+  <system-out><![CDATA[13:14:19.251 [Test worker] DEBUG reactor.util.Loggers - Using Slf4j logging framework
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
